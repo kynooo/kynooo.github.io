@@ -1,7 +1,18 @@
 # Kyno's Storage
-This is a general archive website for Team Fortress 2. I originally made it just for my youtube channel but it can really be used in any situation.
-Not much else to say!
-
-You may use my source code for your website, I don't mind.
+TF2 Archiving Website
 # Credits
-Credits are listed on the site respectfully.
+Download credits:
+
+Paysus (Animation Overhaul)
+
+Kyno (Animation Overhaul)
+
+Nem (VTFEdit)
+
+xXExtremePilgrimXx (COOLHUD)
+
+Website code credits:
+
+https://codepen.io/HektorW/pen/ZBryeV
+
+https://tholman.com/github-corners/
