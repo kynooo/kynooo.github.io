@@ -3,16 +3,16 @@ TF2 Archiving Website
 # Credits
 Download credits:
 
-Paysus (Animation Overhaul)
+[Paysus](https://gamebanana.com/members/1353324) (Animation Overhaul)
 
-Kyno (Animation Overhaul)
+Me (Packing Animation Overhaul)
 
 Nem (VTFEdit)
 
-xXExtremePilgrimXx (COOLHUD)
+[xXtremePilgrimXx](https://gamebanana.com/members/1736053) (COOLHUD)
 
 Website code credits:
 
-https://codepen.io/HektorW/pen/ZBryeV
+Snow Stuffs - https://codepen.io/HektorW/pen/ZBryeV
 
-https://tholman.com/github-corners/
+Repository Corner - https://tholman.com/github-corners/
